@@ -42,7 +42,7 @@ void main() {
 	cout << "연산자를 입력하세요(+, -, *, /, %) " << endl;
 	cin >> op;
 
-
+	//fgfg
 	switch (op) {
 		case '-':
 			printf("%d - %d", a - b);
